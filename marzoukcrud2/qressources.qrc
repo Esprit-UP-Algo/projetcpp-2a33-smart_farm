@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/qressource/stylesheet">
+        <file>Aqua.qss</file>
+    </qresource>
+</RCC>
