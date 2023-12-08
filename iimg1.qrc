@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Capture d’écran 2023-11-27 120042.png</file>
+        <file>Capture d’écran 2023-11-27 120146.png</file>
+        <file>Capture d’écran 2023-11-27 120207.png</file>
+        <file>Capture d’écran 2023-11-27 120228.png</file>
+        <file>Capture d’écran 2023-11-27 120257.png</file>
+    </qresource>
+</RCC>
